@@ -16,7 +16,8 @@ Occassionally, the system that runs Mopidy server also becomes and AirPlay serve
 
 ## Hardware used
 
-- Lilygo ESP32-S3 with TFT 1.9" display.
+- Lilygo T-DisplayS3 ESP32-S3 with TFT 1.9" display.
+	- https://www.lilygo.cc/
 
 ## Software used
 
@@ -113,3 +114,7 @@ Spotipy
 
 Pidi
 - https://github.com/pimoroni/pidi
+
+Thanks to @teastain for assisting in the trouble shooting of the battery port!
+His project with the same hardware avialable here.
+https://github.com/teastainGit/LillyGO-T-display-S3-setup-and-examples
