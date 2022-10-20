@@ -93,7 +93,11 @@ A simple 3D case was printed and an acrylic sheet attached to protect the displa
 
 *Spotiify does not have a way to determine the next track, unlike MPD. So static text had to be used to fill the blank space instead*
 
-- Some pictures of the result
+Here are some pictures of the result
+
+![MPD State](./photos/IMG_0962.jpg)
+![SPotify State](./photos/IMG_0963.jpg)
+
 
 # References
 
@@ -116,5 +120,5 @@ Pidi
 - https://github.com/pimoroni/pidi
 
 Thanks to @teastain for assisting in the trouble shooting of the battery port!
-His project with the same hardware avialable here.
+His project with the same hardware available here.
 https://github.com/teastainGit/LillyGO-T-display-S3-setup-and-examples
